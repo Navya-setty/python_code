@@ -4,7 +4,7 @@
 # In[1]:
 
 
-with open(r"C:\Users\Navya Pillarisetty\Downloads\Night_Changes_Lyrics.txt","a") as song:
+with open(r".\Downloads\Night_Changes_Lyrics.txt","a") as song:
     song.write("\nEnd of the song")
     song.close()
 
